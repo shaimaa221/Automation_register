@@ -1,11 +1,12 @@
 # Automation_register
 
 This project is an automated registeration feature for codenbox automation lab, built using Java programming language and the Selenium & Cucumber library. The script is designed to automate the account registration process for a website by entering the necessary information, including 
-  1. Email address 
-  2. First name 
-  3. Last name 
-  4. Password
-  5. Phone number
+  1. First name 
+  2. last name 
+  3. email
+  4. Phon number
+  5. course selection
+  6. data to start 
 from excel sheet (Source File).
 
 The script uses the WebDriver component of the Selenium library to navigate to the registration page and input the required data into the corresponding fields. Once all the necessary data has been entered, the script will simulate a click on the submit button to complete the registration process.
